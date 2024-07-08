@@ -487,7 +487,7 @@ Just a few sites that don't fit into any of the other areas above
   <br/>
 
 <!--START_SECTION:activity-->
-	To provide the self-taught educatioin
+	To provide a self-taught education
 <!--END_SECTION:activity-->
 </details>
 
@@ -505,4 +505,3 @@ Just a few sites that don't fit into any of the other areas above
 <a href="https://github.com/Tontan-Hak/Self-Study-Maths/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Study-Maths?color=2b9348" alt="License Badge"/></a>
 
 -----
-
